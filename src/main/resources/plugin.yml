@@ -1,0 +1,8 @@
+name: VDatabaseManager
+version: '${project.version}'
+main: com.valkeon.vdatabasemanager.Main
+api-version: 1.20
+prefix: VDatabaseManager
+authors: [ Eiven ]
+description: Valkeon Official Database Manager Plugin
+website: valkeon.com
